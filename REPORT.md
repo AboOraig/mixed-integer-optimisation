@@ -1,4 +1,4 @@
-# Mixed-Integer Optimisation for EV Charging Allocation — Report
+# Mixed-Integer Optimisation for EV Charging Allocation
 
 ## 1. Problem statement
 
